@@ -1,0 +1,32 @@
+}
+/*Cores Formiga*/
+f{
+    color: #FF6B3F;
+	font-style:bold;
+}
+ff{
+    color: #FF6B3F;
+	font-style:italic;
+}
+o{
+    color: #CE4669;
+}
+/*NPCs*/
+c{
+    color: #AAB6F8;
+}
+c1{
+    color: #38BEA2;
+}
+c2{
+    color: #24bbed;
+}
+c3{
+    color: #329fb3;
+}
+c4{
+    color: #7874B0;
+}
+a6{
+    color:  #664fb0;
+}
